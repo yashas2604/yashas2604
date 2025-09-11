@@ -68,9 +68,12 @@ Here are some ideas to get you started:
 
 ## Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yashas2604@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yashas2604/)
+
+<img src="https://i.kym-cdn.com/entries/icons/original/000/034/772/Untitled-1.png" width="300">
+
 <!--
 <p>
  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE4dHc1MGw2NWdhMWl2N2s0YzVzbTI2cDRoMzk3dm03OTdyZjN5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11z068pqgqbhHa/giphy.gif" width="300"/>
-</p>
+</p>   
 -->
 ![](https://komarev.com/ghpvc/?username=yashas2604&label=Profile%20Views&color=red&style=flat)
