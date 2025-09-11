@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📖 Final-year student with strong focus on **AIML**
 - 🌱 I’m currently learning **Agentic AI, Reinforcement Learning, Cybersecurity**
 - 👨‍💻 I’m currently building ....
-- 💻 All of my projects are available on [GitHub](https://github.com/yashas2604/yashas2604)
+- 💻 All of my projects are available on [GitHub](https://github.com/yashas2604)
 - 📑 Check out my resume [here 🔗](https://yashas2604.vercel.app/yashas-resume-v4-copy.pdf).
 
 ## **📈GitHub Stats:**
