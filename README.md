@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+
   
                 ██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗    ██╗███╗   ███╗
                 ██║  ██║██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝    ██║████╗ ████║
@@ -68,7 +69,9 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yashas2604/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashas.m.shetty/)
 
-<img src="https://i.kym-cdn.com/entries/icons/original/000/034/772/Untitled-1.png" width="300"> 
+<img width="200" height="200" alt="pixelyashas" src="https://github.com/user-attachments/assets/260769a5-cc97-4bd6-8f86-cb29424be222" />
+<img width="200" height="200" alt="Screenshot 2026-07-09 at 1 07 04 AM" src="https://github.com/user-attachments/assets/3fdb74c1-b232-4637-9ddb-0117e99d5ec3" />
+
 
 <!--
 <p>
