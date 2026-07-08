@@ -17,11 +17,10 @@ Here are some ideas to get you started:
                 ██║  ██║██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝    ██║████╗ ████║
                 ███████║█████╗   ╚████╔╝        ██║   ███████║█████╗  ██████╔╝█████╗      ██║██╔████╔██║
                 ██╔══██║██╔══╝    ╚██╔╝         ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝      ██║██║╚██╔╝██║
-                ██║  ██║██║        ██║          ██║   ██║  ██║██║     ██║  ██║██          ██║██║ ╚═╝ ██║
+                ██║  ██║██║        ██║          ██║   ██║  ██║██║     ██║  ██║██║         ██║██║ ╚═╝ ██║
                 ██║  ██║███████╗   ██║          ██║   ██║  ██║███████╗██║  ██║███████╗    ██║██║ ╚═╝ ██║
                 ╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝    ╚═╝╚═╝     ╚═╝
-<img width="1394" height="190" alt="Screenshot 2026-07-08 at 11 33 15 PM" src="https://github.com/user-attachments/assets/532219fb-7dc2-4fb8-8650-4d34b8fac6a5" />
-
+<img width="1398" height="177" alt="Screenshot 2026-07-08 at 11 46 32 PM" src="https://github.com/user-attachments/assets/abb8a2b0-8eb7-4b12-91fa-9fab575a0769" />
 
 **<p align="center">An AI/ML Engineer | Agentic AI Explorer | Artist | Problem Solver | Curious Mind </p>**
 
