@@ -20,9 +20,8 @@ Here are some ideas to get you started:
                 ██║  ██║██║        ██║          ██║   ██║  ██║██║     ██║  ██║██║         ██║██║ ╚═╝ ██║
                 ██║  ██║███████╗   ██║          ██║   ██║  ██║███████╗██║  ██║███████╗    ██║██║ ╚═╝ ██║
                 ╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝    ╚═╝╚═╝     ╚═╝
-<img width="1398" height="177" alt="Screenshot 2026-07-08 at 11 46 32 PM" src="https://github.com/user-attachments/assets/abb8a2b0-8eb7-4b12-91fa-9fab575a0769" />
 
-![name_banner](./assets/banner.gif)
+[![name_banner](https://github.com/yashas2604/yashas2604/raw/main/assests/nameBanner.gif)](https://yashas2604.vercel.app/)
 
 **<p align="center">An AI/ML Engineer | Agentic AI Explorer | Artist | Problem Solver | Curious Mind </p>**
 
