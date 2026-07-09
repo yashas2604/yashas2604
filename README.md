@@ -24,16 +24,19 @@ Here are some ideas to get you started:
 
 [![name_banner](https://github.com/yashas2604/yashas2604/raw/main/assests/nameBanner.gif)](https://yashas2604.vercel.app/)
 
-**<p align="center">An AI/ML Engineer | Agentic AI Explorer | Artist | Problem Solver | Curious Mind </p>**
+**<p align="center">`An AI/ML Engineer | Agentic AI Explorer | Artist | Problem Solver | Curious Mind `</p>**
 
-- 📖 Final-year student with strong focus on **AIML**
-- 🌱 I’m currently learning **Agentic AI, Artificial Intelligence, Cybersecurity**
+- 📖 **AIML** Engineering Graduaate
+- 🌱 I’m currently obsessed **Agentic AI, LLMs, Intelligent Systems**
+- 🎮 I enjoy creating things that are both useful and fun
 - 👨‍💻 I’m currently building [My Desktop Companion](https://github.com/yashas2604/bekkku)
+- 🎨 Fan of minimal design, satisfying UI, and aesthetic developer setups
 - 💻 All of my projects are available on [GitHub](https://github.com/yashas2604)
+- 🌍 If it's AI, automation, productivity, or something unexpectedly cool, I'm probably exploring it
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+VIC+WA+NT+Beginner&pause=1000&color=FFFFFFEF&width=435&lines=++++%E2%9C%A8+Turning+random+ideas+into+side+projects)](https://git.io/typing-svg)
 <!--- 📑 Check out my resume [here 🔗](https://yashas2604.vercel.app/yashas-resume-v4-copy.pdf).-->
 
 <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>-->
-
 ## 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashas2604&theme=blueberry)
 
@@ -69,8 +72,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yashas2604/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashas.m.shetty/)
 
-<img width="200" height="200" alt="pixelyashas" src="https://github.com/user-attachments/assets/260769a5-cc97-4bd6-8f86-cb29424be222" />
-<img width="200" height="200" alt="Screenshot 2026-07-09 at 1 07 04 AM" src="https://github.com/user-attachments/assets/3fdb74c1-b232-4637-9ddb-0117e99d5ec3" />
+<img width="200" height="200" alt="pixelyashas" src="https://github.com/user-attachments/assets/260769a5-cc97-4bd6-8f86-cb29424be222" />  <img width="200" height="200" alt="Screenshot 2026-07-09 at 1 07 04 AM" src="https://github.com/user-attachments/assets/3fdb74c1-b232-4637-9ddb-0117e99d5ec3" />  <img width ="300" height ="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRvbmQ1czI3eHltbjUwdXdpb3lhMHo1MmdscWdsd3p5Z2pvbWRobCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/cInER0W6DXsbBMeuP2/giphy.gif" />
 
 
 <!--
