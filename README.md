@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **<p align="center">`An AI/ML Engineer | Agentic AI Explorer | Artist | Problem Solver | Curious Mind `</p>**
 
-- 📖 **AIML** Engineering Graduaate
+- 📖 **AIML** Engineering Graduate
 - 🌱 I’m currently obsessed **Agentic AI, LLMs, Intelligent Systems**
 - 🎮 I enjoy creating things that are both useful and fun
 - 👨‍💻 I’m currently building [My Desktop Companion](https://github.com/yashas2604/bekkku)
